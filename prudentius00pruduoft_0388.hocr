@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prudentius00pruduoft/prudentius00pruduoft_0388.png"; bbox 0 0 1456 2358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1305 616 1319 912">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1305 616 1319 912">
+     <span class='ocr_line' id='line_1_1' title="bbox 1305 616 1319 912; baseline -148 888"><span class='ocrx_word' id='word_1_1' title='bbox 1313 616 1316 623; x_wconf 94' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 1310 627 1317 680; x_wconf 58' lang='grc' dir='ltr'>ιῖιί.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1314 684 1317 691; x_wconf 72' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 1306 699 1319 798; x_wconf 63' lang='lat' dir='ltr'>:51va</span> <span class='ocrx_word' id='word_1_5' title='bbox 1315 804 1318 814; x_wconf 69' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 1305 818 1318 866; x_wconf 59' lang='lat'>„5⁴13</span> <span class='ocrx_word' id='word_1_7' title='bbox 1306 872 1319 912; x_wconf 61' lang='grc' dir='ltr'>..ηιξ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1313 1933 1330 2288">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1313 1933 1330 2288">
+     <span class='ocr_line' id='line_1_2' title="bbox 1313 1933 1330 2288; baseline -355 2130"><span class='ocrx_word' id='word_1_8' title='bbox 1326 1933 1329 1935; x_wconf 36' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_9' title='bbox 1325 1952 1327 1957; x_wconf 61' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 1322 1978 1330 2018; x_wconf 62' lang='grc'>,11</span> <span class='ocrx_word' id='word_1_11' title='bbox 1313 2028 1329 2288; x_wconf 42' lang='lat' dir='ltr'>&lt;ligulas-z</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 777 0 1456 2358">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 777 0 1456 2358">
+     <span class='ocr_line' id='line_1_3' title="bbox 777 0 1456 2358"><span class='ocrx_word' id='word_1_12' title='bbox 777 0 1456 2358; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
